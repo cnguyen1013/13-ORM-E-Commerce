@@ -19,7 +19,6 @@ router.get('/', async (req, res) => {
         attributes: ["id", "tag_name"],
       }],
     });
-    console.log(productData);
     res.status(200).json(productData);
   } catch (err) {
     res.status(500).json(err);
