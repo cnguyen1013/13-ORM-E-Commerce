@@ -3,7 +3,7 @@ This contains the Module 13 challenge of the Rice Coding Bootcamp
 
 ## Main Site
 
-TBD
+![Main Site](assets/images/main-site-01.png)
 
 ## Location of Repository
 
